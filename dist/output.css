@@ -526,6 +526,10 @@ video {
   position: absolute;
 }
 
+.sticky {
+  position: sticky;
+}
+
 .left-0 {
   left: 0px;
 }
@@ -536,6 +540,10 @@ video {
 
 .top-20 {
   top: 5rem;
+}
+
+.top-0 {
+  top: 0px;
 }
 
 .ml-5 {
